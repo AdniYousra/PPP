@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">realtime_object</string>
+
+    <string name="button2">Detection</string>
+    <string name="button3">Scanning</string>
+    <string name="textview" />
+    <string name="wait_for_information">wait for information</string>
+    <string name="Start">Button</string>
+    <string name="scan">scanningggg</string>
 </resources>
+
